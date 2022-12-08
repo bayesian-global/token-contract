@@ -160,7 +160,7 @@ contract BAYE is Context, IERC20, Ownable {
 
     constructor()  {
         _name = "Bayesian";
-        _symbol = "tBAYE";
+        _symbol = "BAYE";
         _decimals = 18;
         _creator = msg.sender;
 
